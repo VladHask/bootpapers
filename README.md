@@ -6,6 +6,6 @@
 * Run `npm install`
 * Run `npm start`
 
-## The same on server part
+The same on server part
 
 +tables from server queries
