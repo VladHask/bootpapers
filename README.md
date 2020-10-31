@@ -1,7 +1,7 @@
 # Simple React/Node.js paperwork
 
-## Instructions to front part
-
+## Instructions 
+to front part: 
 * Clone the repo
 * Run `npm install`
 * Run `npm start`
